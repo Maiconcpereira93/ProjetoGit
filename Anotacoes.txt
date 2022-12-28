@@ -2,4 +2,4 @@ git status = para verificar se ja foi enviados os arquivos gerados
 git add "nome do arquivo" = serve para enviar para o github o arquivo
 git add . = serve para enviar todos arquivos de uma vez
 git commit "nome da versão" = com esse comando vc poe o nome do seu plano.
-
+git push = enviar para a nuvem 
