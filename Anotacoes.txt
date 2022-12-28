@@ -1,0 +1,19 @@
+git status = para verificar se ja foi enviados os arquivos gerados
+git add "nome do arquivo" = serve para enviar para o github o arquivo
+git add . = serve para enviar todos arquivos de uma vez
+git push = enviar para a nuvem 
+git commit "nome da versão" = com esse comando vc poe o nome do seu plano.
+git reflog = visualizar versões do codigo anterior
+git reset --hard (escolher versão)
+
+git branch = verificar quais branch existem
+git branch (nome) = cria uma branch com o nome escolhido, o mais usado é staging.
+git checkout (nome) = escolhendo o nome da branch vc altera entre as branch
+
+para realizar o merge primeiro vá para a branch principal
+git checkout master
+git pull = realiza o resgate dos arquivos da rede. (sempre realizar a partir da principal)
+git merge staging = realiza o merge da 
+
+
+git checkout -b nome-da-branch = gerar comando a partir da branch que sera clonada
