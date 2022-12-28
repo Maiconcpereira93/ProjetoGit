@@ -12,8 +12,11 @@ git checkout (nome) = escolhendo o nome da branch vc altera entre as branch
 
 para realizar o merge primeiro vá para a branch principal
 git checkout master
-git pull = realiza o resgate dos arquivos da rede. (sempre realizar a partir da principal)
-git merge staging = realiza o merge da 
+git pull = realiza atualização (sempre realizar a partir da principal)
+git merge staging = realiza o merge da branch (realizar a partir da principal)
 
 
 git checkout -b nome-da-branch = gerar comando a partir da branch que sera clonada
+git branch > salvar alterções > git add . > git commit -m "cadastrar nome da versao" > git push (para enviar atualizações)
+
+
